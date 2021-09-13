@@ -1,0 +1,17 @@
+pdf:
+  title:
+    font: Times
+    size: 18
+    style: 'B'
+  artist:
+    font: Times
+    size: 12
+    style: ''
+  body:
+    font: Times
+    size: 10
+    style: ''
+  use_version_in_filename: False
+  use_transposition_in_filename: True
+telegram:
+  preview_songs: True
